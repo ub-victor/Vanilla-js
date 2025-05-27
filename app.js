@@ -4,4 +4,4 @@ function smoothScroll(target,duration){ //
     console.log(targetPosition);
 }
 
-smoothScroll(".section2", 1000);
+smoothScroll(".section1", 1000);
