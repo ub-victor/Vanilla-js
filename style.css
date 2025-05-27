@@ -8,4 +8,5 @@
 
 .box2 {
     height: 100hv;
+    display: flex;
 }
