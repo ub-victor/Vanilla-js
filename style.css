@@ -9,4 +9,6 @@
 .box2 {
     height: 100hv;
     display: flex;
+    justify-content: space-around; 
+    align-items: center;
 }
